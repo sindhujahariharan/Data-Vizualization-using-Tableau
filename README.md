@@ -6,5 +6,9 @@ c.	What is the most profitable bargain percentage for the buyer if he decides to
 d.	Which year or quarter most number of sales has happened.
 e.	The trend in average sale price and interior square ft rate bring fairly steady, the sales in the year "1993" has peaked with "154" in Q3 1994. During the same period, the average condo fee and average property Tax has also increased reasonably.  
 Tableau Public – Assignment link: 
+
+
+
 Please find the tableau public workbook for the assignment in the below link.
 https://public.tableau.com/profile/sindhuja.hariharan#!/vizhome/Trial_187/BostonCondoDataSet?publish=yes
+
